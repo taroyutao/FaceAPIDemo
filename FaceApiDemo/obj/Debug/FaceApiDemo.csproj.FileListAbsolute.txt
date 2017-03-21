@@ -1,0 +1,7 @@
+c:\users\yuvmtest\documents\visual studio 2017\Projects\FaceApiDemo\FaceApiDemo\bin\Debug\FaceApiDemo.exe.config
+c:\users\yuvmtest\documents\visual studio 2017\Projects\FaceApiDemo\FaceApiDemo\bin\Debug\FaceApiDemo.exe
+c:\users\yuvmtest\documents\visual studio 2017\Projects\FaceApiDemo\FaceApiDemo\bin\Debug\FaceApiDemo.pdb
+c:\users\yuvmtest\documents\visual studio 2017\Projects\FaceApiDemo\FaceApiDemo\bin\Debug\System.Web.dll
+c:\users\yuvmtest\documents\visual studio 2017\Projects\FaceApiDemo\FaceApiDemo\obj\Debug\FaceApiDemo.csprojResolveAssemblyReference.cache
+c:\users\yuvmtest\documents\visual studio 2017\Projects\FaceApiDemo\FaceApiDemo\obj\Debug\FaceApiDemo.exe
+c:\users\yuvmtest\documents\visual studio 2017\Projects\FaceApiDemo\FaceApiDemo\obj\Debug\FaceApiDemo.pdb
